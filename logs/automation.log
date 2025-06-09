@@ -1,0 +1,18 @@
+2025-06-06 11:30:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Shrateek jaiswal\Downloads\OpencartV121-master\OpencartV121-master\master.xml
+
+2025-06-06 11:30:42 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-06 11:30:42 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-06-06 11:30:43 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-06-06 11:30:43 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-06-06 11:30:45 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-06-06 11:30:45 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-06-06 11:30:45 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-06 11:30:50 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2025-06-06 11:41:29 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-06 11:41:29 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-06-06 11:41:31 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-06-06 11:41:31 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-06-06 11:41:33 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-06-06 11:41:43 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-06 11:41:50 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
